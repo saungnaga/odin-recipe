@@ -1,0 +1,39 @@
+* {
+    color: rgb(148, 85, 8);
+    font-weight: 700;
+    background-color: rgb(255, 239, 242);
+    text-align: center;
+    font-family: monospace;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: fantasy;
+}
+
+#logosize {
+    height: auto;
+    width: 400px;
+}
+
+li {
+    text-align: justify;
+}
+
+a {
+    color: crimson;
+    text-align: center;
+    font-family: fantasy;
+}
+
+.par {
+    text-align: justify;
+    font-family: fantasy;
+}
+
+h2, h3, h4 {
+    font-family: fantasy;
+    text-align: justify;
+}
