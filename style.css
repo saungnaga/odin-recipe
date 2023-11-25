@@ -8,9 +8,24 @@
     margin-right: 5%;
 }
 
+.menu {
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    width: 500px;
+    margin: auto;
+    display: block;
+}
+
+.menu :hover {
+    color: yellow;
+}
+
 h1 {
     font-size: 60px;
     font-family: fantasy;
+    margin: auto;
+    margin-bottom: 30px;
 }
 
 #logosize {
